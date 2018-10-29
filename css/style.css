@@ -1215,7 +1215,7 @@ select:-webkit-autofill {
 }
 
 .popup {
-  width: 800px;
+  width: 600px;
 }
 
 @media (max-width: 960px) {
@@ -1320,7 +1320,7 @@ select:-webkit-autofill {
 
 .popup-check {
   background-color: white;
-  padding: 64px 120px 32px;
+  padding: 64px 80px 32px;
 }
 
 @media (max-width: 960px) {
